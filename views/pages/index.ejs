@@ -7,29 +7,40 @@
 </head>
 <body class="container">
 
-<header>
-    <% include ../partials/header %>
-</header>
+<header> <% include ../partials/header %></header>
 
-<main>
-    <div class="jumbotron">
-        <h1>This is great</h1>
-        <p>Welcome to templating using EJS</p>
+<p>Kies een genre</p>
 
-        <h2>Variable</h2>
-        <p><%= tagline %></p>
-        <h2>Loop</h2>
-        <ul>
-        <% drinks.forEach(function(drink) { %>
-            <li><%= drink.name %> - <%= drink.drunkness %></li>
-        <% }); %>
-        </ul>
-    </div>
-</main>
+<!-- <section class ="search">
 
-<footer>
-    <% include ../partials/footer %>
-</footer>
+  <form class="" action="index.html" method="post">
+    <input type="text" name="" value="">
+    <button type="button" name="button">Zoeken...</button>
+  </form>
+
+</section> -->
+
+<section class= "genres">
+  <% filteredArray.forEach(function(item) { %>
+      <a href=<%= item %>><%= item %></a>
+
+  <% }); %>
+</section>
+
+<!-- <section class="books">
+    <% data.forEach(function(item) { %>
+      <article>
+        <img src=<%= item.cover_image %> alt=<%= item.title %>>
+        <h2><%= item.title %></h2>
+        <p><%= item.author %></p>
+        <a href=<%= item.isbn %>>bekijk</a>
+      </article>
+    <% }); %>
+
+</section> -->
+
+<footer><% include ../partials/footer %></footer>
 
 </body>
+
 </html>
