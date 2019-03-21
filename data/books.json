@@ -1,0 +1,2671 @@
+[
+  {
+    "_text": [
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n    "
+    ],
+    "id": {
+      "_attributes": {
+        "nativeid": "1198649",
+        "ds": "library/v/OBA",
+        "translation": "ID",
+        "search-method": "id",
+        "search-term": "|oba-catalogus|1198649",
+        "search-type": "precise"
+      },
+      "_text": "|oba-catalogus|1198649"
+    },
+    "frabl": {
+      "_attributes": {
+        "translation": "FRBR Nummer (FRABL)",
+        "search-method": "frabl",
+        "search-term": "4AF4B92396F360A0",
+        "search-type": "searcher"
+      },
+      "_text": "4AF4B92396F360A0"
+    },
+    "detail-page": {
+      "_text": "http://zoeken.oba.nl/detail/Alieke-Bruins/Dementie/Boek/?itemid=%7coba-catalogus%7c1198649"
+    },
+    "coverimages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "coverimage": [
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=419028455&isbn=9789463419116&lid=&aut=&ti=&size=70"
+        },
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/419028455&token=c1322402"
+        }
+      ]
+    },
+    "titles": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "title": {
+        "_attributes": {
+          "translation": "Titel",
+          "search-method": "title",
+          "search-term": "Dementie / Alieke Bruins",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie / Alieke Bruins"
+      },
+      "short-title": {
+        "_attributes": { "translation": "Korte titel" },
+        "_text": "Dementie"
+      }
+    },
+    "authors": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "main-author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "Alieke Bruins",
+          "search-type": "searcher",
+          "translation": "Auteur (hoofd)",
+          "firstname": "Alieke",
+          "lastname": "Bruins",
+          "type": "aut",
+          "localized-type": "Auteur",
+          "creatortype": "person",
+          "main": "true"
+        },
+        "_text": "Bruins, Alieke"
+      },
+      "author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "Marlies Huijzer",
+          "search-type": "searcher",
+          "translation": "Auteur",
+          "type": "edt",
+          "localized-type": "Redacteur",
+          "creatortype": "organization"
+        },
+        "_text": "Marlies Huijzer"
+      }
+    },
+    "formats": {
+      "_text": ["\n        ", "\n      "],
+      "format": {
+        "_attributes": {
+          "translation": "Formaat",
+          "search-method": "format",
+          "search-term": "book",
+          "search-type": "searcher"
+        },
+        "_text": "book"
+      }
+    },
+    "identifiers": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "isbn-id": [
+        {
+          "_attributes": {
+            "search-method": "isbn",
+            "search-term": "=9789463419116",
+            "search-type": "searcher",
+            "translation": "ISBN"
+          },
+          "_text": "=9789463419116"
+        },
+        {
+          "_attributes": {
+            "search-method": "isbn",
+            "search-term": "=9789463419055",
+            "search-type": "searcher",
+            "translation": "ISBN"
+          },
+          "_text": "=9789463419055"
+        }
+      ],
+      "ppn-id": {
+        "_attributes": {
+          "search-method": "ppn",
+          "search-term": "419028455",
+          "search-type": "precise",
+          "translation": "PICA productienummer"
+        },
+        "_text": "419028455"
+      }
+    },
+    "publication": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "year": {
+        "_attributes": {
+          "translation": "Publicatiejaar",
+          "search-method": "year",
+          "search-term": "2018",
+          "search-type": "searcher"
+        },
+        "_text": "2018"
+      },
+      "publishers": {
+        "_text": ["\n          ", "\n        "],
+        "publisher": {
+          "_attributes": {
+            "translation": "Uitgever",
+            "search-method": "publisher",
+            "search-term": "Ars Scribendi Uitgeverij",
+            "search-type": "searcher",
+            "year": "[2018]",
+            "place": "Etten-Leur"
+          },
+          "_text": "Ars Scribendi Uitgeverij"
+        }
+      }
+    },
+    "classification": {
+      "_attributes": { "translation": "Plaatsingssuggestie" },
+      "_text": ["\n        ", "\n      "],
+      "siso-code": {
+        "_attributes": {
+          "translation": "SISO",
+          "search-method": "siso",
+          "search-term": "J606.15",
+          "search-type": "precise"
+        },
+        "_text": "J606.15"
+      }
+    },
+    "languages": {
+      "_text": ["\n        ", "\n      "],
+      "language": {
+        "_attributes": {
+          "translation": "Taal",
+          "search-method": "language",
+          "search-term": "dut",
+          "search-type": "searcher"
+        },
+        "_text": "dut"
+      }
+    },
+    "subjects": {
+      "_text": ["\n        ", "\n      "],
+      "topical-subject": {
+        "_attributes": {
+          "translation": "Onderwerp",
+          "search-method": "subject",
+          "search-term": "Dementie",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie"
+      }
+    },
+    "description": {
+      "_text": ["\n        ", "\n      "],
+      "physical-description": {
+        "_attributes": { "translation": "Kenmerken" },
+        "_text": "24 pagina's: gekleurde illustraties ; 21 cm"
+      }
+    },
+    "notes": {
+      "_text": ["\n        ", "\n      "],
+      "note": {
+        "_attributes": { "translation": "Aantekening" },
+        "_text": "Met literatuuropgave"
+      }
+    },
+    "target-audiences": {
+      "_text": ["\n        ", "\n      "],
+      "target-audience": {
+        "_attributes": {
+          "translation": "Doelgroep",
+          "search-method": "targetaudience",
+          "search-term": "ageYouth",
+          "search-type": "searcher"
+        },
+        "_text": "ageYouth"
+      }
+    },
+    "series": {
+      "_text": ["\n        ", "\n      "],
+      "series-title": {
+        "_attributes": {
+          "translation": "In de reeks",
+          "search-method": "series",
+          "search-term": "Informatie",
+          "search-type": "searcher"
+        },
+        "_text": "Informatie"
+      }
+    },
+    "undup-info": {
+      "_attributes": {
+        "key": "|oba-catalogus|1198649",
+        "cnt": "0",
+        "sort": "year",
+        "frabl": "4AF4B92396F360A0",
+        "frabl-global-count": "1",
+        "frabl-key1": "dementie",
+        "frabl-key2": "alieke bruins",
+        "translation": "Informatie over dubbele items"
+      }
+    }
+  },
+  {
+    "_text": [
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n    "
+    ],
+    "id": {
+      "_attributes": {
+        "nativeid": "1062549",
+        "ds": "library/v/OBA",
+        "translation": "ID",
+        "search-method": "id",
+        "search-term": "|oba-catalogus|1062549",
+        "search-type": "precise"
+      },
+      "_text": "|oba-catalogus|1062549"
+    },
+    "frabl": {
+      "_attributes": {
+        "translation": "FRBR Nummer (FRABL)",
+        "search-method": "frabl",
+        "search-term": "7112675998F360A0",
+        "search-type": "searcher"
+      },
+      "_text": "7112675998F360A0"
+    },
+    "detail-page": {
+      "_text": "http://zoeken.oba.nl/detail/S-Kollaard/Dementie/Boek/?itemid=%7coba-catalogus%7c1062549"
+    },
+    "coverimages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "coverimage": [
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=351202501&isbn=9789086481903&lid=&aut=&ti=&size=70"
+        },
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/351202501&token=c1322402"
+        }
+      ]
+    },
+    "titles": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "title": {
+        "_attributes": {
+          "translation": "Titel",
+          "search-method": "title",
+          "search-term": "Dementie / eindred. S. Kollaard",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie / eindred. S. Kollaard"
+      },
+      "short-title": {
+        "_attributes": { "translation": "Korte titel" },
+        "_text": "Dementie"
+      },
+      "other-title": {
+        "_attributes": { "translation": "Andere titel" },
+        "_text": "Zorgboek dementie"
+      }
+    },
+    "authors": {
+      "_text": ["\n        ", "\n      "],
+      "main-author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "S. Kollaard",
+          "search-type": "searcher",
+          "translation": "Auteur (hoofd)",
+          "creatortype": "organization",
+          "main": "true"
+        },
+        "_text": "S. Kollaard"
+      }
+    },
+    "formats": {
+      "_text": ["\n        ", "\n      "],
+      "format": {
+        "_attributes": {
+          "translation": "Formaat",
+          "search-method": "format",
+          "search-term": "book",
+          "search-type": "searcher"
+        },
+        "_text": "book"
+      }
+    },
+    "identifiers": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "isbn-id": {
+        "_attributes": {
+          "search-method": "isbn",
+          "search-term": "9789086481903",
+          "search-type": "searcher",
+          "translation": "ISBN"
+        },
+        "_text": "9789086481903"
+      },
+      "ppn-id": {
+        "_attributes": {
+          "search-method": "ppn",
+          "search-term": "351202501",
+          "search-type": "precise",
+          "translation": "PICA productienummer"
+        },
+        "_text": "351202501"
+      }
+    },
+    "publication": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "year": {
+        "_attributes": {
+          "translation": "Publicatiejaar",
+          "search-method": "year",
+          "search-term": "2012",
+          "search-type": "searcher"
+        },
+        "_text": "2012"
+      },
+      "publishers": {
+        "_text": ["\n          ", "\n        "],
+        "publisher": {
+          "_attributes": {
+            "translation": "Uitgever",
+            "search-method": "publisher",
+            "search-term": "Stichting September",
+            "search-type": "searcher",
+            "year": "2012",
+            "place": "[Amsterdam]"
+          },
+          "_text": "Stichting September"
+        }
+      },
+      "editions": {
+        "_text": ["\n          ", "\n        "],
+        "edition": {
+          "_attributes": { "translation": "Editie" },
+          "_text": "7e dr"
+        }
+      }
+    },
+    "classification": {
+      "_attributes": { "translation": "Plaatsingssuggestie" },
+      "_text": ["\n        ", "\n      "],
+      "siso-code": {
+        "_attributes": {
+          "translation": "SISO",
+          "search-method": "siso",
+          "search-term": "605.93",
+          "search-type": "precise"
+        },
+        "_text": "605.93"
+      }
+    },
+    "languages": {
+      "_text": ["\n        ", "\n      "],
+      "language": {
+        "_attributes": {
+          "translation": "Taal",
+          "search-method": "language",
+          "search-term": "dut",
+          "search-type": "searcher"
+        },
+        "_text": "dut"
+      }
+    },
+    "subjects": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "topical-subject": [
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Dementerenden",
+            "search-type": "fuzzy"
+          },
+          "_text": "Dementerenden"
+        },
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Mantelzorg",
+            "search-type": "fuzzy"
+          },
+          "_text": "Mantelzorg"
+        }
+      ]
+    },
+    "description": {
+      "_text": ["\n        ", "\n      "],
+      "physical-description": {
+        "_attributes": { "translation": "Kenmerken" },
+        "_text": "262 p: ill ; 28 cm"
+      }
+    },
+    "summaries": {
+      "_text": ["\n        ", "\n      "],
+      "summary": {
+        "_attributes": { "translation": "Samenvatting" },
+        "_text": "Medische en praktische informatie voor mantelzorgers en andere naasten."
+      }
+    },
+    "notes": {
+      "_text": ["\n        ", "\n      "],
+      "note": {
+        "_attributes": { "translation": "Aantekening" },
+        "_text": "Uitg. met medew. van Nederlandse Vereniging voor Neurologie ... [et al.]. - Met index, lit. opg"
+      }
+    },
+    "series": {
+      "_text": ["\n        ", "\n      "],
+      "series-title": {
+        "_attributes": {
+          "translation": "In de reeks",
+          "search-method": "series",
+          "search-term": "Zorgboeken",
+          "search-type": "searcher"
+        },
+        "_text": "Zorgboeken"
+      }
+    },
+    "undup-info": {
+      "_attributes": {
+        "key": "|oba-catalogus|1062549",
+        "cnt": "0",
+        "sort": "year",
+        "frabl": "7112675998F360A0",
+        "frabl-global-count": "1",
+        "frabl-key1": "dementie",
+        "frabl-key2": "skollaard",
+        "translation": "Informatie over dubbele items"
+      }
+    }
+  },
+  {
+    "_text": [
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n    "
+    ],
+    "id": {
+      "_attributes": {
+        "nativeid": "1098301",
+        "ds": "library/v/OBA",
+        "translation": "ID",
+        "search-method": "id",
+        "search-term": "|oba-catalogus|1098301",
+        "search-type": "precise"
+      },
+      "_text": "|oba-catalogus|1098301"
+    },
+    "frabl": {
+      "_attributes": {
+        "translation": "FRBR Nummer (FRABL)",
+        "search-method": "frabl",
+        "search-term": "5FEE6E5F81F36CA0",
+        "search-type": "searcher"
+      },
+      "_text": "5FEE6E5F81F36CA0"
+    },
+    "detail-page": {
+      "_text": "http://zoeken.oba.nl/detail/E-H-Coene/Dementie/Cd-rom/?itemid=%7coba-catalogus%7c1098301"
+    },
+    "coverimages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "coverimage": [
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=369386582&isbn=9789086482344&lid=&aut=&ti=&size=70"
+        },
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/369386582&token=c1322402"
+        }
+      ]
+    },
+    "titles": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "title": {
+        "_attributes": {
+          "translation": "Titel",
+          "search-method": "title",
+          "search-term": "Dementie / eindred. E.H. Coene",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie / eindred. E.H. Coene"
+      },
+      "short-title": {
+        "_attributes": { "translation": "Korte titel" },
+        "_text": "Dementie"
+      }
+    },
+    "authors": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "main-author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "E.H. Coene",
+          "search-type": "searcher",
+          "translation": "Auteur (hoofd)",
+          "creatortype": "organization",
+          "main": "true"
+        },
+        "_text": "E.H. Coene"
+      },
+      "author": [
+        {
+          "_attributes": {
+            "search-method": "author",
+            "search-term": "R. Beerepoot",
+            "search-type": "searcher",
+            "translation": "Auteur",
+            "creatortype": "organization"
+          },
+          "_text": "R. Beerepoot"
+        },
+        {
+          "_attributes": {
+            "search-method": "author",
+            "search-term": "M. Besseling",
+            "search-type": "searcher",
+            "translation": "Auteur",
+            "creatortype": "organization"
+          },
+          "_text": "M. Besseling"
+        }
+      ]
+    },
+    "formats": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "format": [
+        {
+          "_attributes": {
+            "translation": "Formaat",
+            "search-method": "format",
+            "search-term": "cdrom",
+            "search-type": "searcher"
+          },
+          "_text": "cdrom"
+        },
+        {
+          "_attributes": {
+            "translation": "Formaat",
+            "search-method": "format",
+            "search-term": "cd",
+            "search-type": "searcher"
+          },
+          "_text": "cd"
+        }
+      ]
+    },
+    "identifiers": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "isbn-id": {
+        "_attributes": {
+          "search-method": "isbn",
+          "search-term": "9789086482344",
+          "search-type": "searcher",
+          "translation": "ISBN"
+        },
+        "_text": "9789086482344"
+      },
+      "ppn-id": {
+        "_attributes": {
+          "search-method": "ppn",
+          "search-term": "369386582",
+          "search-type": "precise",
+          "translation": "PICA productienummer"
+        },
+        "_text": "369386582"
+      }
+    },
+    "publication": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "year": {
+        "_attributes": {
+          "translation": "Publicatiejaar",
+          "search-method": "year",
+          "search-term": "2013",
+          "search-type": "searcher"
+        },
+        "_text": "2013"
+      },
+      "publishers": {
+        "_text": ["\n          ", "\n          ", "\n          ", "\n        "],
+        "publisher": [
+          {
+            "_attributes": {
+              "translation": "Uitgever",
+              "search-method": "publisher",
+              "search-term": "",
+              "search-type": "searcher",
+              "place": "[Amsterdam]"
+            }
+          },
+          {
+            "_attributes": {
+              "translation": "Uitgever",
+              "search-method": "publisher",
+              "search-term": "Stichting September",
+              "search-type": "searcher",
+              "place": "[Amsterdam]"
+            },
+            "_text": "Stichting September"
+          },
+          {
+            "_attributes": {
+              "translation": "Uitgever",
+              "search-method": "publisher",
+              "search-term": "September Multimedia",
+              "search-type": "searcher",
+              "year": "2013"
+            },
+            "_text": "September Multimedia"
+          }
+        ]
+      },
+      "editions": {
+        "_text": ["\n          ", "\n        "],
+        "edition": {
+          "_attributes": { "translation": "Editie" },
+          "_text": "2e dr"
+        }
+      }
+    },
+    "classification": {
+      "_attributes": { "translation": "Plaatsingssuggestie" },
+      "_text": ["\n        ", "\n      "],
+      "siso-code": {
+        "_attributes": {
+          "translation": "SISO",
+          "search-method": "siso",
+          "search-term": "605.93",
+          "search-type": "precise"
+        },
+        "_text": "605.93"
+      }
+    },
+    "languages": {
+      "_text": ["\n        ", "\n      "],
+      "language": {
+        "_attributes": {
+          "translation": "Taal",
+          "search-method": "language",
+          "search-term": "dut",
+          "search-type": "searcher"
+        },
+        "_text": "dut"
+      }
+    },
+    "subjects": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "topical-subject": [
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Dementerenden",
+            "search-type": "fuzzy"
+          },
+          "_text": "Dementerenden"
+        },
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Mantelzorg",
+            "search-type": "fuzzy"
+          },
+          "_text": "Mantelzorg"
+        }
+      ]
+    },
+    "description": {
+      "_text": ["\n        ", "\n      "],
+      "physical-description": {
+        "_attributes": { "translation": "Kenmerken" },
+        "_text": "1 cd-rom"
+      }
+    },
+    "summaries": {
+      "_text": ["\n        ", "\n      "],
+      "summary": {
+        "_attributes": { "translation": "Samenvatting" },
+        "_text": "Medische en praktische informatie voor mantelzorgers en andere naasten."
+      }
+    },
+    "notes": {
+      "_text": ["\n        ", "\n      "],
+      "note": {
+        "_attributes": { "translation": "Aantekening" },
+        "_text": "Titel afkomstig van label. - Nederlandstalig. - Uitg. in samenw. met: Nederlandse Vereniging voor Neurologie ... [et al.]. - Systeemeisen: Minimaal: Windows XP met Internet Explorer 7.0"
+      }
+    },
+    "series": {
+      "_text": ["\n        ", "\n      "],
+      "series-title": {
+        "_attributes": {
+          "translation": "In de reeks",
+          "search-method": "series",
+          "search-term": "Zorg cd-rom",
+          "search-type": "searcher"
+        },
+        "_text": "Zorg cd-rom"
+      }
+    },
+    "undup-info": {
+      "_attributes": {
+        "key": "|oba-catalogus|1098301",
+        "cnt": "0",
+        "sort": "year",
+        "frabl": "5FEE6E5F81F36CA0",
+        "frabl-global-count": "1",
+        "frabl-key1": "dementie",
+        "frabl-key2": "ehcoene rbeerepoot mbesseling",
+        "translation": "Informatie over dubbele items"
+      }
+    }
+  },
+  {
+    "_text": [
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n    "
+    ],
+    "id": {
+      "_attributes": {
+        "nativeid": "909913",
+        "ds": "library/v/OBA",
+        "translation": "ID",
+        "search-method": "id",
+        "search-term": "|oba-catalogus|909913",
+        "search-type": "precise"
+      },
+      "_text": "|oba-catalogus|909913"
+    },
+    "frabl": {
+      "_attributes": {
+        "translation": "FRBR Nummer (FRABL)",
+        "search-method": "frabl",
+        "search-term": "74FF9F3942F36CA0",
+        "search-type": "searcher"
+      },
+      "_text": "74FF9F3942F36CA0"
+    },
+    "detail-page": {
+      "_text": "http://zoeken.oba.nl/detail/E-H-Coene/Dementie/Cd-rom/?itemid=%7coba-catalogus%7c909913"
+    },
+    "coverimages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "coverimage": [
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=318892669&isbn=9789086480524&lid=&aut=&ti=&size=70"
+        },
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/318892669&token=c1322402"
+        }
+      ]
+    },
+    "titles": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "title": {
+        "_attributes": {
+          "translation": "Titel",
+          "search-method": "title",
+          "search-term": "Dementie / coördinatie.: E.H. Coene, R. Beerepoot, I. Schoon-Welling",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie / coördinatie.: E.H. Coene, R. Beerepoot, I. Schoon-Welling"
+      },
+      "short-title": {
+        "_attributes": { "translation": "Korte titel" },
+        "_text": "Dementie"
+      }
+    },
+    "authors": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "main-author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "E.H. Coene",
+          "search-type": "searcher",
+          "translation": "Auteur (hoofd)",
+          "creatortype": "organization",
+          "main": "true"
+        },
+        "_text": "E.H. Coene"
+      },
+      "author": [
+        {
+          "_attributes": {
+            "search-method": "author",
+            "search-term": "R. Beerepoot",
+            "search-type": "searcher",
+            "translation": "Auteur",
+            "creatortype": "organization"
+          },
+          "_text": "R. Beerepoot"
+        },
+        {
+          "_attributes": {
+            "search-method": "author",
+            "search-term": "I. Schoon-Welling",
+            "search-type": "searcher",
+            "translation": "Auteur",
+            "creatortype": "organization"
+          },
+          "_text": "I. Schoon-Welling"
+        }
+      ]
+    },
+    "formats": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "format": [
+        {
+          "_attributes": {
+            "translation": "Formaat",
+            "search-method": "format",
+            "search-term": "cdrom",
+            "search-type": "searcher"
+          },
+          "_text": "cdrom"
+        },
+        {
+          "_attributes": {
+            "translation": "Formaat",
+            "search-method": "format",
+            "search-term": "cd",
+            "search-type": "searcher"
+          },
+          "_text": "cd"
+        }
+      ]
+    },
+    "identifiers": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "isbn-id": {
+        "_attributes": {
+          "search-method": "isbn",
+          "search-term": "9789086480524",
+          "search-type": "searcher",
+          "translation": "ISBN"
+        },
+        "_text": "9789086480524"
+      },
+      "ppn-id": {
+        "_attributes": {
+          "search-method": "ppn",
+          "search-term": "318892669",
+          "search-type": "precise",
+          "translation": "PICA productienummer"
+        },
+        "_text": "318892669"
+      }
+    },
+    "publication": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "year": {
+        "_attributes": {
+          "translation": "Publicatiejaar",
+          "search-method": "year",
+          "search-term": "2009",
+          "search-type": "searcher"
+        },
+        "_text": "2009"
+      },
+      "publishers": {
+        "_text": ["\n          ", "\n          ", "\n          ", "\n        "],
+        "publisher": [
+          {
+            "_attributes": {
+              "translation": "Uitgever",
+              "search-method": "publisher",
+              "search-term": "",
+              "search-type": "searcher",
+              "place": "[Amsterdam]"
+            }
+          },
+          {
+            "_attributes": {
+              "translation": "Uitgever",
+              "search-method": "publisher",
+              "search-term": "Stichting September",
+              "search-type": "searcher",
+              "place": "[Amsterdam]"
+            },
+            "_text": "Stichting September"
+          },
+          {
+            "_attributes": {
+              "translation": "Uitgever",
+              "search-method": "publisher",
+              "search-term": "September Multimedia",
+              "search-type": "searcher",
+              "year": "2009"
+            },
+            "_text": "September Multimedia"
+          }
+        ]
+      }
+    },
+    "classification": {
+      "_attributes": { "translation": "Plaatsingssuggestie" },
+      "_text": ["\n        ", "\n      "],
+      "siso-code": {
+        "_attributes": {
+          "translation": "SISO",
+          "search-method": "siso",
+          "search-term": "605.93",
+          "search-type": "precise"
+        },
+        "_text": "605.93"
+      }
+    },
+    "languages": {
+      "_text": ["\n        ", "\n      "],
+      "language": {
+        "_attributes": {
+          "translation": "Taal",
+          "search-method": "language",
+          "search-term": "dut",
+          "search-type": "searcher"
+        },
+        "_text": "dut"
+      }
+    },
+    "subjects": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "topical-subject": [
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Dementerenden",
+            "search-type": "fuzzy"
+          },
+          "_text": "Dementerenden"
+        },
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Mantelzorg",
+            "search-type": "fuzzy"
+          },
+          "_text": "Mantelzorg"
+        }
+      ]
+    },
+    "description": {
+      "_text": ["\n        ", "\n      "],
+      "physical-description": {
+        "_attributes": { "translation": "Kenmerken" },
+        "_text": "1 cd-rom + 1 tekst ([8] p.)"
+      }
+    },
+    "summaries": {
+      "_text": ["\n        ", "\n      "],
+      "summary": {
+        "_attributes": { "translation": "Samenvatting" },
+        "_text": "Praktische informatie voor patiënten en hun omgeving"
+      }
+    },
+    "notes": {
+      "_text": ["\n        ", "\n      "],
+      "note": {
+        "_attributes": { "translation": "Aantekening" },
+        "_text": "Titel afkomstig van label. - Nederlandstalig. - Uitg. in samenw. met: Mezzo ... [et al.]. - Systeemvereisten: Pentium 2, 450 MHz; 128 MB RAM werkgeheugen; Windows XP; video: 800×600, 16 bits kleur; geluidskaart; Internet Explorer 6.0; Flashplayer 9 (meegeleverd). Aanbevolen: Pentium 3, 450 MHz of hoger; 256 MB werkgeheugen; Windows XP"
+      }
+    },
+    "series": {
+      "_text": ["\n        ", "\n      "],
+      "series-title": {
+        "_attributes": {
+          "translation": "In de reeks",
+          "search-method": "series",
+          "search-term": "Zorg cd-rom",
+          "search-type": "searcher"
+        },
+        "_text": "Zorg cd-rom"
+      }
+    },
+    "undup-info": {
+      "_attributes": {
+        "key": "|oba-catalogus|909913",
+        "cnt": "0",
+        "sort": "year",
+        "frabl": "74FF9F3942F36CA0",
+        "frabl-global-count": "1",
+        "frabl-key1": "dementie",
+        "frabl-key2": "ehcoene rbeerepoot ischoon welling",
+        "translation": "Informatie over dubbele items"
+      }
+    }
+  },
+  {
+    "_text": [
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n    "
+    ],
+    "id": {
+      "_attributes": {
+        "nativeid": "1169173",
+        "ds": "library/v/OBA",
+        "translation": "ID",
+        "search-method": "id",
+        "search-term": "|oba-catalogus|1169173",
+        "search-type": "precise"
+      },
+      "_text": "|oba-catalogus|1169173"
+    },
+    "frabl": {
+      "_attributes": {
+        "translation": "FRBR Nummer (FRABL)",
+        "search-method": "frabl",
+        "search-term": "267B3DF349F360A0",
+        "search-type": "searcher"
+      },
+      "_text": "267B3DF349F360A0"
+    },
+    "detail-page": {
+      "_text": "http://zoeken.oba.nl/detail/Evelien-Pullens/De-vierde-dementie-intuitie-en-dementie/Boek/?itemid=%7coba-catalogus%7c1169173"
+    },
+    "coverimages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "coverimage": [
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=408060786&isbn=9789020213492&lid=&aut=&ti=&size=70"
+        },
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/408060786&token=c1322402"
+        }
+      ]
+    },
+    "titles": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "title": {
+        "_attributes": {
+          "translation": "Titel",
+          "search-method": "title",
+          "search-term": "De vierde dementie : intuïtie en dementie / Evelien Pullens",
+          "search-type": "fuzzy"
+        },
+        "_text": "De vierde dementie : intuïtie en dementie / Evelien Pullens"
+      },
+      "short-title": {
+        "_attributes": { "translation": "Korte titel" },
+        "_text": "De vierde dementie : intuïtie en dementie"
+      },
+      "subtitle": {
+        "_attributes": { "translation": "Sub titel" },
+        "_text": "intuïtie en dementie"
+      }
+    },
+    "authors": {
+      "_text": ["\n        ", "\n      "],
+      "main-author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "Evelien Pullens",
+          "search-type": "searcher",
+          "translation": "Auteur (hoofd)",
+          "firstname": "Evelien",
+          "lastname": "Pullens",
+          "type": "aut",
+          "localized-type": "Auteur",
+          "creatortype": "person",
+          "main": "true"
+        },
+        "_text": "Pullens, Evelien"
+      }
+    },
+    "formats": {
+      "_text": ["\n        ", "\n      "],
+      "format": {
+        "_attributes": {
+          "translation": "Formaat",
+          "search-method": "format",
+          "search-term": "book",
+          "search-type": "searcher"
+        },
+        "_text": "book"
+      }
+    },
+    "identifiers": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "isbn-id": {
+        "_attributes": {
+          "search-method": "isbn",
+          "search-term": "=9789020213492",
+          "search-type": "searcher",
+          "translation": "ISBN"
+        },
+        "_text": "=9789020213492"
+      },
+      "ppn-id": {
+        "_attributes": {
+          "search-method": "ppn",
+          "search-term": "408060786",
+          "search-type": "precise",
+          "translation": "PICA productienummer"
+        },
+        "_text": "408060786"
+      }
+    },
+    "publication": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "year": {
+        "_attributes": {
+          "translation": "Publicatiejaar",
+          "search-method": "year",
+          "search-term": "2017",
+          "search-type": "searcher"
+        },
+        "_text": "2017"
+      },
+      "publishers": {
+        "_text": ["\n          ", "\n        "],
+        "publisher": {
+          "_attributes": {
+            "translation": "Uitgever",
+            "search-method": "publisher",
+            "search-term": "AnkhHermes",
+            "search-type": "searcher",
+            "year": "[2017]",
+            "place": "Utrecht"
+          },
+          "_text": "AnkhHermes"
+        }
+      }
+    },
+    "classification": {
+      "_attributes": { "translation": "Plaatsingssuggestie" },
+      "_text": ["\n        ", "\n      "],
+      "siso-code": {
+        "_attributes": {
+          "translation": "SISO",
+          "search-method": "siso",
+          "search-term": "606.15",
+          "search-type": "precise"
+        },
+        "_text": "606.15"
+      }
+    },
+    "languages": {
+      "_text": ["\n        ", "\n      "],
+      "language": {
+        "_attributes": {
+          "translation": "Taal",
+          "search-method": "language",
+          "search-term": "dut",
+          "search-type": "searcher"
+        },
+        "_text": "dut"
+      }
+    },
+    "subjects": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "topical-subject": [
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Dementie",
+            "search-type": "fuzzy"
+          },
+          "_text": "Dementie"
+        },
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Intuïtie",
+            "search-type": "fuzzy"
+          },
+          "_text": "Intuïtie"
+        }
+      ]
+    },
+    "description": {
+      "_text": ["\n        ", "\n      "],
+      "physical-description": {
+        "_attributes": { "translation": "Kenmerken" },
+        "_text": "144 pagina's ; 21 cm"
+      }
+    },
+    "summaries": {
+      "_text": ["\n        ", "\n      "],
+      "summary": {
+        "_attributes": { "translation": "Samenvatting" },
+        "_text": "Handboek voor mantelzorgers van dementerenden waarin intuitie een grote rol speelt."
+      }
+    },
+    "undup-info": {
+      "_attributes": {
+        "key": "|oba-catalogus|1169173",
+        "cnt": "0",
+        "sort": "year",
+        "frabl": "267B3DF349F360A0",
+        "frabl-global-count": "1",
+        "frabl-key1": "de vierde dementie intuitie en dementie",
+        "frabl-key2": "evelien pullens",
+        "translation": "Informatie over dubbele items"
+      }
+    }
+  },
+  {
+    "_text": [
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n    "
+    ],
+    "id": {
+      "_attributes": {
+        "nativeid": "1137783",
+        "ds": "library/v/OBA",
+        "translation": "ID",
+        "search-method": "id",
+        "search-term": "|oba-catalogus|1137783",
+        "search-type": "precise"
+      },
+      "_text": "|oba-catalogus|1137783"
+    },
+    "frabl": {
+      "_attributes": {
+        "translation": "FRBR Nummer (FRABL)",
+        "search-method": "frabl",
+        "search-term": "932A83F16F360A0",
+        "search-type": "searcher"
+      },
+      "_text": "932A83F16F360A0"
+    },
+    "detail-page": {
+      "_text": "http://zoeken.oba.nl/detail/Simon-Atkins/Dementie-voor-dummies/Boek/?itemid=%7coba-catalogus%7c1137783"
+    },
+    "coverimages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "coverimage": [
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=380643391&isbn=9789045350172&lid=&aut=&ti=&size=70"
+        },
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/380643391&token=c1322402"
+        }
+      ]
+    },
+    "titles": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "title": {
+        "_attributes": {
+          "translation": "Titel",
+          "search-method": "title",
+          "search-term": "Dementie voor dummies / Simon Atkins",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie voor dummies / Simon Atkins"
+      },
+      "short-title": {
+        "_attributes": { "translation": "Korte titel" },
+        "_text": "Dementie voor dummies"
+      }
+    },
+    "authors": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "main-author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "Simon Atkins",
+          "search-type": "searcher",
+          "translation": "Auteur (hoofd)",
+          "firstname": "Simon",
+          "lastname": "Atkins",
+          "type": "aut",
+          "localized-type": "Auteur",
+          "creatortype": "person",
+          "main": "true"
+        },
+        "_text": "Atkins, Simon"
+      },
+      "author": [
+        {
+          "_attributes": {
+            "search-method": "author",
+            "search-term": "Diederik Wouterlood",
+            "search-type": "searcher",
+            "translation": "Auteur",
+            "type": "trl",
+            "localized-type": "Vertaler",
+            "creatortype": "organization"
+          },
+          "_text": "Diederik Wouterlood"
+        },
+        {
+          "_attributes": {
+            "search-method": "author",
+            "search-term": "Hessel Leistra",
+            "search-type": "searcher",
+            "translation": "Auteur",
+            "type": "edt",
+            "localized-type": "Redacteur",
+            "creatortype": "organization"
+          },
+          "_text": "Hessel Leistra"
+        }
+      ]
+    },
+    "formats": {
+      "_text": ["\n        ", "\n      "],
+      "format": {
+        "_attributes": {
+          "translation": "Formaat",
+          "search-method": "format",
+          "search-term": "book",
+          "search-type": "searcher"
+        },
+        "_text": "book"
+      }
+    },
+    "identifiers": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "isbn-id": {
+        "_attributes": {
+          "search-method": "isbn",
+          "search-term": "=9789045350172",
+          "search-type": "searcher",
+          "translation": "ISBN"
+        },
+        "_text": "=9789045350172"
+      },
+      "ppn-id": {
+        "_attributes": {
+          "search-method": "ppn",
+          "search-term": "380643391",
+          "search-type": "precise",
+          "translation": "PICA productienummer"
+        },
+        "_text": "380643391"
+      }
+    },
+    "publication": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "year": {
+        "_attributes": {
+          "translation": "Publicatiejaar",
+          "search-method": "year",
+          "search-term": "2015",
+          "search-type": "searcher"
+        },
+        "_text": "2015"
+      },
+      "publishers": {
+        "_text": ["\n          ", "\n        "],
+        "publisher": {
+          "_attributes": {
+            "translation": "Uitgever",
+            "search-method": "publisher",
+            "search-term": "BBNC Uitgevers",
+            "search-type": "searcher",
+            "year": "2015",
+            "place": "Amersfoort"
+          },
+          "_text": "BBNC Uitgevers"
+        }
+      }
+    },
+    "classification": {
+      "_attributes": { "translation": "Plaatsingssuggestie" },
+      "_text": ["\n        ", "\n      "],
+      "siso-code": {
+        "_attributes": {
+          "translation": "SISO",
+          "search-method": "siso",
+          "search-term": "606.15",
+          "search-type": "precise"
+        },
+        "_text": "606.15"
+      }
+    },
+    "languages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "language": {
+        "_attributes": {
+          "translation": "Taal",
+          "search-method": "language",
+          "search-term": "dut",
+          "search-type": "searcher"
+        },
+        "_text": "dut"
+      },
+      "original-language": {
+        "_attributes": { "translation": "Oorspr. taal uitgave" },
+        "_text": "eng"
+      }
+    },
+    "subjects": {
+      "_text": ["\n        ", "\n      "],
+      "topical-subject": {
+        "_attributes": {
+          "translation": "Onderwerp",
+          "search-method": "subject",
+          "search-term": "Dementie",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie"
+      }
+    },
+    "description": {
+      "_text": ["\n        ", "\n      "],
+      "physical-description": {
+        "_attributes": { "translation": "Kenmerken" },
+        "_text": "XVIII, 322 pagina's: illustraties ; 24 cm"
+      }
+    },
+    "summaries": {
+      "_text": ["\n        ", "\n      "],
+      "summary": {
+        "_attributes": { "translation": "Samenvatting" },
+        "_text": "Medische en praktische informatie voor mensen bij wie dementie is vastgesteld, hun familie en verzorgers."
+      }
+    },
+    "notes": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "note": [
+        {
+          "_attributes": { "translation": "Aantekening" },
+          "_text": "Met index"
+        },
+        {
+          "_attributes": { "translation": "Aantekening" },
+          "_text": "Vertaling van: Dementia for dummies. - Indianapolis, Indiana : John Wiley & Sons, Inc., 2015"
+        }
+      ]
+    },
+    "undup-info": {
+      "_attributes": {
+        "key": "|oba-catalogus|1137783",
+        "cnt": "0",
+        "sort": "year",
+        "frabl": "932A83F16F360A0",
+        "frabl-global-count": "1",
+        "frabl-key1": "dementie voor dummies",
+        "frabl-key2": "simon atkins",
+        "translation": "Informatie over dubbele items"
+      }
+    }
+  },
+  {
+    "_text": [
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n    "
+    ],
+    "id": {
+      "_attributes": {
+        "nativeid": "1112554",
+        "ds": "library/v/OBA",
+        "translation": "ID",
+        "search-method": "id",
+        "search-term": "|oba-catalogus|1112554",
+        "search-type": "precise"
+      },
+      "_text": "|oba-catalogus|1112554"
+    },
+    "frabl": {
+      "_attributes": {
+        "translation": "FRBR Nummer (FRABL)",
+        "search-method": "frabl",
+        "search-term": "7FAA662A62F360A0",
+        "search-type": "searcher"
+      },
+      "_text": "7FAA662A62F360A0"
+    },
+    "detail-page": {
+      "_text": "http://zoeken.oba.nl/detail/Annemie-Janssens/Dementie-op-jonge-leeftijd/Boek/?itemid=%7coba-catalogus%7c1112554"
+    },
+    "coverimages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "coverimage": [
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=375560211&isbn=9789401409377&lid=&aut=&ti=&size=70"
+        },
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/375560211&token=c1322402"
+        }
+      ]
+    },
+    "titles": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "title": {
+        "_attributes": {
+          "translation": "Titel",
+          "search-method": "title",
+          "search-term": "Dementie op jonge leeftijd / Annemie Janssens & Marjolein de Vugt",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie op jonge leeftijd / Annemie Janssens & Marjolein de Vugt"
+      },
+      "short-title": {
+        "_attributes": { "translation": "Korte titel" },
+        "_text": "Dementie op jonge leeftijd"
+      }
+    },
+    "authors": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "main-author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "Annemie Janssens",
+          "search-type": "searcher",
+          "translation": "Auteur (hoofd)",
+          "firstname": "Annemie",
+          "lastname": "Janssens",
+          "creatortype": "person",
+          "main": "true"
+        },
+        "_text": "Janssens, Annemie"
+      },
+      "author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "Marjolein de Vugt",
+          "search-type": "searcher",
+          "translation": "Auteur",
+          "creatortype": "organization"
+        },
+        "_text": "Marjolein de Vugt"
+      }
+    },
+    "formats": {
+      "_text": ["\n        ", "\n      "],
+      "format": {
+        "_attributes": {
+          "translation": "Formaat",
+          "search-method": "format",
+          "search-term": "book",
+          "search-type": "searcher"
+        },
+        "_text": "book"
+      }
+    },
+    "identifiers": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "isbn-id": {
+        "_attributes": {
+          "search-method": "isbn",
+          "search-term": "=9789401409377",
+          "search-type": "searcher",
+          "translation": "ISBN"
+        },
+        "_text": "=9789401409377"
+      },
+      "ppn-id": {
+        "_attributes": {
+          "search-method": "ppn",
+          "search-term": "375560211",
+          "search-type": "precise",
+          "translation": "PICA productienummer"
+        },
+        "_text": "375560211"
+      }
+    },
+    "publication": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "year": {
+        "_attributes": {
+          "translation": "Publicatiejaar",
+          "search-method": "year",
+          "search-term": "2014",
+          "search-type": "searcher"
+        },
+        "_text": "2014"
+      },
+      "publishers": {
+        "_text": ["\n          ", "\n        "],
+        "publisher": {
+          "_attributes": {
+            "translation": "Uitgever",
+            "search-method": "publisher",
+            "search-term": "LannooCampus",
+            "search-type": "searcher",
+            "year": "[2014]",
+            "place": "Leuven"
+          },
+          "_text": "LannooCampus"
+        }
+      }
+    },
+    "classification": {
+      "_attributes": { "translation": "Plaatsingssuggestie" },
+      "_text": ["\n        ", "\n      "],
+      "siso-code": {
+        "_attributes": {
+          "translation": "SISO",
+          "search-method": "siso",
+          "search-term": "606.15",
+          "search-type": "precise"
+        },
+        "_text": "606.15"
+      }
+    },
+    "languages": {
+      "_text": ["\n        ", "\n      "],
+      "language": {
+        "_attributes": {
+          "translation": "Taal",
+          "search-method": "language",
+          "search-term": "dut",
+          "search-type": "searcher"
+        },
+        "_text": "dut"
+      }
+    },
+    "subjects": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "topical-subject": [
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Dementie",
+            "search-type": "fuzzy"
+          },
+          "_text": "Dementie"
+        },
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Middelbare leeftijd",
+            "search-type": "fuzzy"
+          },
+          "_text": "Middelbare leeftijd"
+        }
+      ]
+    },
+    "description": {
+      "_text": ["\n        ", "\n      "],
+      "physical-description": {
+        "_attributes": { "translation": "Kenmerken" },
+        "_text": "190 pagina's: illustraties ; 24 cm"
+      }
+    },
+    "undup-info": {
+      "_attributes": {
+        "key": "|oba-catalogus|1112554",
+        "cnt": "2",
+        "sort": "year",
+        "frabl": "7FAA662A62F360A0",
+        "frabl-global-count": "2",
+        "frabl-key1": "dementie op jonge leeftijd",
+        "frabl-key2": "annemie janssens",
+        "translation": "Informatie over dubbele items"
+      },
+      "_text": ["\n        ", "\n      "],
+      "format": {
+        "_attributes": {
+          "text": "book",
+          "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20190314.232823",
+          "translation": "Formaat"
+        },
+        "_text": ["\n          ", "\n          ", "\n        "],
+        "item": [
+          {
+            "_attributes": {
+              "extid": "|oba-catalogus|1112554",
+              "frabl": "7FAA662A62F360A0",
+              "language": "dut",
+              "year": "[2014]",
+              "publisher": "LannooCampus",
+              "globalholdingscount": ""
+            }
+          },
+          {
+            "_attributes": {
+              "extid": "|oba-catalogus|1115571",
+              "frabl": "7FAA662A62F360A0",
+              "language": "dut",
+              "year": "mei 2014",
+              "publisher": "LannooCampus",
+              "globalholdingscount": ""
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_text": [
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n    "
+    ],
+    "id": {
+      "_attributes": {
+        "nativeid": "1128378",
+        "ds": "library/v/OBA",
+        "translation": "ID",
+        "search-method": "id",
+        "search-term": "|oba-catalogus|1128378",
+        "search-type": "precise"
+      },
+      "_text": "|oba-catalogus|1128378"
+    },
+    "frabl": {
+      "_attributes": {
+        "translation": "FRBR Nummer (FRABL)",
+        "search-method": "frabl",
+        "search-term": "7C3B5AA253F360A0",
+        "search-type": "searcher"
+      },
+      "_text": "7C3B5AA253F360A0"
+    },
+    "detail-page": {
+      "_text": "http://zoeken.oba.nl/detail/Jos-Cuijten/Is-dementie-erg-hoe-om-te-gaan-met-dementie/Boek/?itemid=%7coba-catalogus%7c1128378"
+    },
+    "coverimages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "coverimage": [
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=383795737&isbn=9789082306408&lid=&aut=&ti=&size=70"
+        },
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/383795737&token=c1322402"
+        }
+      ]
+    },
+    "titles": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "title": {
+        "_attributes": {
+          "translation": "Titel",
+          "search-method": "title",
+          "search-term": "Is dementie erg? : hoe om te gaan met dementie / Jos Cuijten, Wilma Jongeneel & Marjolein Fleurbaaij",
+          "search-type": "fuzzy"
+        },
+        "_text": "Is dementie erg? : hoe om te gaan met dementie / Jos Cuijten, Wilma Jongeneel & Marjolein Fleurbaaij"
+      },
+      "short-title": {
+        "_attributes": { "translation": "Korte titel" },
+        "_text": "Is dementie erg? : hoe om te gaan met dementie"
+      },
+      "subtitle": {
+        "_attributes": { "translation": "Sub titel" },
+        "_text": "hoe om te gaan met dementie"
+      }
+    },
+    "authors": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "main-author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "Jos Cuijten",
+          "search-type": "searcher",
+          "translation": "Auteur (hoofd)",
+          "firstname": "Jos",
+          "lastname": "Cuijten",
+          "type": "aut",
+          "localized-type": "Auteur",
+          "creatortype": "person",
+          "main": "true"
+        },
+        "_text": "Cuijten, Jos"
+      },
+      "author": [
+        {
+          "_attributes": {
+            "search-method": "author",
+            "search-term": "Wilma Jongeneel",
+            "search-type": "searcher",
+            "translation": "Auteur",
+            "type": "aut",
+            "localized-type": "Auteur",
+            "creatortype": "organization"
+          },
+          "_text": "Wilma Jongeneel"
+        },
+        {
+          "_attributes": {
+            "search-method": "author",
+            "search-term": "Marjolein Fleurbaaij",
+            "search-type": "searcher",
+            "translation": "Auteur",
+            "type": "ill",
+            "localized-type": "Illustrator",
+            "creatortype": "organization"
+          },
+          "_text": "Marjolein Fleurbaaij"
+        }
+      ]
+    },
+    "formats": {
+      "_text": ["\n        ", "\n      "],
+      "format": {
+        "_attributes": {
+          "translation": "Formaat",
+          "search-method": "format",
+          "search-term": "book",
+          "search-type": "searcher"
+        },
+        "_text": "book"
+      }
+    },
+    "identifiers": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "isbn-id": {
+        "_attributes": {
+          "search-method": "isbn",
+          "search-term": "=9789082306408",
+          "search-type": "searcher",
+          "translation": "ISBN"
+        },
+        "_text": "=9789082306408"
+      },
+      "ppn-id": {
+        "_attributes": {
+          "search-method": "ppn",
+          "search-term": "383795737",
+          "search-type": "precise",
+          "translation": "PICA productienummer"
+        },
+        "_text": "383795737"
+      }
+    },
+    "publication": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "year": {
+        "_attributes": {
+          "translation": "Publicatiejaar",
+          "search-method": "year",
+          "search-term": "2014",
+          "search-type": "searcher"
+        },
+        "_text": "2014"
+      },
+      "publishers": {
+        "_text": ["\n          ", "\n        "],
+        "publisher": {
+          "_attributes": {
+            "translation": "Uitgever",
+            "search-method": "publisher",
+            "search-term": "SAAM Uitgeverij",
+            "search-type": "searcher",
+            "year": "2014",
+            "place": "[Hillegom]"
+          },
+          "_text": "SAAM Uitgeverij"
+        }
+      }
+    },
+    "classification": {
+      "_attributes": { "translation": "Plaatsingssuggestie" },
+      "_text": ["\n        ", "\n      "],
+      "siso-code": {
+        "_attributes": {
+          "translation": "SISO",
+          "search-method": "siso",
+          "search-term": "606.15",
+          "search-type": "precise"
+        },
+        "_text": "606.15"
+      }
+    },
+    "languages": {
+      "_text": ["\n        ", "\n      "],
+      "language": {
+        "_attributes": {
+          "translation": "Taal",
+          "search-method": "language",
+          "search-term": "dut",
+          "search-type": "searcher"
+        },
+        "_text": "dut"
+      }
+    },
+    "subjects": {
+      "_text": ["\n        ", "\n      "],
+      "topical-subject": {
+        "_attributes": {
+          "translation": "Onderwerp",
+          "search-method": "subject",
+          "search-term": "Dementie",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie"
+      }
+    },
+    "description": {
+      "_text": ["\n        ", "\n      "],
+      "physical-description": {
+        "_attributes": { "translation": "Kenmerken" },
+        "_text": "70 pagina's: illustraties ; 19 cm"
+      }
+    },
+    "summaries": {
+      "_text": ["\n        ", "\n      "],
+      "summary": {
+        "_attributes": { "translation": "Samenvatting" },
+        "_text": "Praktische gids voor familieleden, (mantel)zorgers en verpleegkundigen voor de omgang met dementerende mensen."
+      }
+    },
+    "notes": {
+      "_text": ["\n        ", "\n      "],
+      "note": {
+        "_attributes": { "translation": "Aantekening" },
+        "_text": "Met literatuuropgave"
+      }
+    },
+    "undup-info": {
+      "_attributes": {
+        "key": "|oba-catalogus|1128378",
+        "cnt": "0",
+        "sort": "year",
+        "frabl": "7C3B5AA253F360A0",
+        "frabl-global-count": "1",
+        "frabl-key1": "is dementie erg hoe om te gaan met dementie",
+        "frabl-key2": "jos cuijten",
+        "translation": "Informatie over dubbele items"
+      }
+    }
+  },
+  {
+    "_text": [
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n    "
+    ],
+    "id": {
+      "_attributes": {
+        "nativeid": "1015523",
+        "ds": "library/v/OBA",
+        "translation": "ID",
+        "search-method": "id",
+        "search-term": "|oba-catalogus|1015523",
+        "search-type": "precise"
+      },
+      "_text": "|oba-catalogus|1015523"
+    },
+    "frabl": {
+      "_attributes": {
+        "translation": "FRBR Nummer (FRABL)",
+        "search-method": "frabl",
+        "search-term": "3FDA399F0AF360A0",
+        "search-type": "searcher"
+      },
+      "_text": "3FDA399F0AF360A0"
+    },
+    "detail-page": {
+      "_text": "http://zoeken.oba.nl/detail/Theo-Hazelhof/Dementie-en-psychiatrie/Boek/?itemid=%7coba-catalogus%7c1015523"
+    },
+    "coverimages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "coverimage": [
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=33231233X&isbn=9789035233348&lid=&aut=&ti=&size=70"
+        },
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/33231233X&token=c1322402"
+        }
+      ]
+    },
+    "titles": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "title": {
+        "_attributes": {
+          "translation": "Titel",
+          "search-method": "title",
+          "search-term": "Dementie en psychiatrie / Theo Hazelhof, Willy Garenfeld, Tejo Verdonschot",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie en psychiatrie / Theo Hazelhof, Willy Garenfeld, Tejo Verdonschot"
+      },
+      "short-title": {
+        "_attributes": { "translation": "Korte titel" },
+        "_text": "Dementie en psychiatrie"
+      }
+    },
+    "authors": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "main-author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "Theo Hazelhof",
+          "search-type": "searcher",
+          "translation": "Auteur (hoofd)",
+          "firstname": "Theo",
+          "lastname": "Hazelhof",
+          "creatortype": "person",
+          "main": "true"
+        },
+        "_text": "Hazelhof, Theo"
+      },
+      "author": [
+        {
+          "_attributes": {
+            "search-method": "author",
+            "search-term": "Willy Garenfeld",
+            "search-type": "searcher",
+            "translation": "Auteur",
+            "creatortype": "organization"
+          },
+          "_text": "Willy Garenfeld"
+        },
+        {
+          "_attributes": {
+            "search-method": "author",
+            "search-term": "Tejo Verdonschot",
+            "search-type": "searcher",
+            "translation": "Auteur",
+            "creatortype": "organization"
+          },
+          "_text": "Tejo Verdonschot"
+        }
+      ]
+    },
+    "formats": {
+      "_text": ["\n        ", "\n      "],
+      "format": {
+        "_attributes": {
+          "translation": "Formaat",
+          "search-method": "format",
+          "search-term": "book",
+          "search-type": "searcher"
+        },
+        "_text": "book"
+      }
+    },
+    "identifiers": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "isbn-id": {
+        "_attributes": {
+          "search-method": "isbn",
+          "search-term": "9789035233348",
+          "search-type": "searcher",
+          "translation": "ISBN"
+        },
+        "_text": "9789035233348"
+      },
+      "ppn-id": {
+        "_attributes": {
+          "search-method": "ppn",
+          "search-term": "33231233X",
+          "search-type": "precise",
+          "translation": "PICA productienummer"
+        },
+        "_text": "33231233X"
+      }
+    },
+    "publication": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "year": {
+        "_attributes": {
+          "translation": "Publicatiejaar",
+          "search-method": "year",
+          "search-term": "2011",
+          "search-type": "searcher"
+        },
+        "_text": "2011"
+      },
+      "publishers": {
+        "_text": ["\n          ", "\n        "],
+        "publisher": {
+          "_attributes": {
+            "translation": "Uitgever",
+            "search-method": "publisher",
+            "search-term": "Reed Business",
+            "search-type": "searcher",
+            "year": "2011",
+            "place": "Amsterdam"
+          },
+          "_text": "Reed Business"
+        }
+      },
+      "editions": {
+        "_text": ["\n          ", "\n        "],
+        "edition": {
+          "_attributes": { "translation": "Editie" },
+          "_text": "2e [geheel geactualiseerde] dr"
+        }
+      }
+    },
+    "classification": {
+      "_attributes": { "translation": "Plaatsingssuggestie" },
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "siso-code": [
+        {
+          "_attributes": {
+            "translation": "SISO",
+            "search-method": "siso",
+            "search-term": "606.5",
+            "search-type": "precise"
+          },
+          "_text": "606.5"
+        },
+        {
+          "_attributes": {
+            "translation": "SISO",
+            "search-method": "siso",
+            "search-term": "606.23",
+            "search-type": "precise"
+          },
+          "_text": "606.23"
+        }
+      ]
+    },
+    "languages": {
+      "_text": ["\n        ", "\n      "],
+      "language": {
+        "_attributes": {
+          "translation": "Taal",
+          "search-method": "language",
+          "search-term": "dut",
+          "search-type": "searcher"
+        },
+        "_text": "dut"
+      }
+    },
+    "subjects": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "topical-subject": [
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Dementie",
+            "search-type": "fuzzy"
+          },
+          "_text": "Dementie"
+        },
+        {
+          "_attributes": {
+            "translation": "Onderwerp",
+            "search-method": "subject",
+            "search-term": "Psychiatrische verpleegkunde",
+            "search-type": "fuzzy"
+          },
+          "_text": "Psychiatrische verpleegkunde"
+        }
+      ]
+    },
+    "description": {
+      "_text": ["\n        ", "\n      "],
+      "physical-description": {
+        "_attributes": { "translation": "Kenmerken" },
+        "_text": "256 p: ill ; 25 cm + cd-rom"
+      }
+    },
+    "summaries": {
+      "_text": ["\n        ", "\n      "],
+      "summary": {
+        "_attributes": { "translation": "Samenvatting" },
+        "_text": "Handleiding en studieboek voor (aankomende) verzorgenden en verpleegkundigen van demente ouderen."
+      }
+    },
+    "notes": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "note": [
+        { "_attributes": { "translation": "Aantekening" }, "_text": "Met reg" },
+        {
+          "_attributes": { "translation": "Aantekening" },
+          "_text": "Oorspr. titel: Dementie en psychiatrie in woord en beeld : een systematische handleiding. - Maarssen : Elsevier gezondheidszorg, 2004"
+        }
+      ]
+    },
+    "undup-info": {
+      "_attributes": {
+        "key": "|oba-catalogus|1015523",
+        "cnt": "2",
+        "sort": "year",
+        "frabl": "3FDA399F0AF360A0",
+        "frabl-global-count": "2",
+        "frabl-key1": "dementie en psychiatrie in woord en beeld een systematische handleiding",
+        "frabl-key2": "theo hazelhof",
+        "translation": "Informatie over dubbele items"
+      },
+      "_text": ["\n        ", "\n      "],
+      "format": {
+        "_attributes": {
+          "text": "book",
+          "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20190314.232823",
+          "translation": "Formaat"
+        },
+        "_text": ["\n          ", "\n          ", "\n        "],
+        "item": [
+          {
+            "_attributes": {
+              "extid": "|oba-catalogus|1015523",
+              "frabl": "3FDA399F0AF360A0",
+              "language": "dut",
+              "year": "2011",
+              "publisher": "Reed Business",
+              "globalholdingscount": ""
+            }
+          },
+          {
+            "_attributes": {
+              "extid": "|oba-catalogus|172510",
+              "frabl": "3FDA399F0AF360A0",
+              "language": "dut",
+              "year": "cop. 2004",
+              "publisher": "Elsevier gezondheidszorg",
+              "globalholdingscount": ""
+            }
+          }
+        ]
+      }
+    }
+  },
+  {
+    "_text": [
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n      ",
+      "\n    "
+    ],
+    "id": {
+      "_attributes": {
+        "nativeid": "1107995",
+        "ds": "library/v/OBA",
+        "translation": "ID",
+        "search-method": "id",
+        "search-term": "|oba-catalogus|1107995",
+        "search-type": "precise"
+      },
+      "_text": "|oba-catalogus|1107995"
+    },
+    "frabl": {
+      "_attributes": {
+        "translation": "FRBR Nummer (FRABL)",
+        "search-method": "frabl",
+        "search-term": "12ECA57E7CF360A0",
+        "search-type": "searcher"
+      },
+      "_text": "12ECA57E7CF360A0"
+    },
+    "detail-page": {
+      "_text": "http://zoeken.oba.nl/detail/Nadine-Ahr/De-belofte-een-waargebeurd-verhaal-over/Boek/?itemid=%7coba-catalogus%7c1107995"
+    },
+    "coverimages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "coverimage": [
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://cover.biblion.nl/coverlist.dll?doctype=morebutton&bibliotheek=oba&style=0&ppn=370114876&isbn=9789021454870&lid=&aut=&ti=&size=70"
+        },
+        {
+          "_attributes": { "translation": "Cover" },
+          "_text": "https://v19.nbc.bibliotheek.nl/thumbnail?uri=http://data.bibliotheek.nl/ggc/ppn/370114876&token=c1322402"
+        }
+      ]
+    },
+    "titles": {
+      "_text": ["\n        ", "\n        ", "\n        ", "\n      "],
+      "title": {
+        "_attributes": {
+          "translation": "Titel",
+          "search-method": "title",
+          "search-term": "De belofte : een waargebeurd verhaal over liefde en dementie / Nadine Ahr",
+          "search-type": "fuzzy"
+        },
+        "_text": "De belofte : een waargebeurd verhaal over liefde en dementie / Nadine Ahr"
+      },
+      "short-title": {
+        "_attributes": { "translation": "Korte titel" },
+        "_text": "De belofte : een waargebeurd verhaal over liefde en dementie"
+      },
+      "subtitle": {
+        "_attributes": { "translation": "Sub titel" },
+        "_text": "een waargebeurd verhaal over liefde en dementie"
+      }
+    },
+    "authors": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "main-author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "Nadine Ahr",
+          "search-type": "searcher",
+          "translation": "Auteur (hoofd)",
+          "firstname": "Nadine",
+          "lastname": "Ahr",
+          "creatortype": "person",
+          "main": "true"
+        },
+        "_text": "Ahr, Nadine"
+      },
+      "author": {
+        "_attributes": {
+          "search-method": "author",
+          "search-term": "Gerda Meijerink",
+          "search-type": "searcher",
+          "translation": "Auteur",
+          "creatortype": "organization"
+        },
+        "_text": "Gerda Meijerink"
+      }
+    },
+    "formats": {
+      "_text": ["\n        ", "\n      "],
+      "format": {
+        "_attributes": {
+          "translation": "Formaat",
+          "search-method": "format",
+          "search-term": "book",
+          "search-type": "searcher"
+        },
+        "_text": "book"
+      }
+    },
+    "identifiers": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "isbn-id": {
+        "_attributes": {
+          "search-method": "isbn",
+          "search-term": "=9789021454870",
+          "search-type": "searcher",
+          "translation": "ISBN"
+        },
+        "_text": "=9789021454870"
+      },
+      "ppn-id": {
+        "_attributes": {
+          "search-method": "ppn",
+          "search-term": "370114876",
+          "search-type": "precise",
+          "translation": "PICA productienummer"
+        },
+        "_text": "370114876"
+      }
+    },
+    "publication": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "year": {
+        "_attributes": {
+          "translation": "Publicatiejaar",
+          "search-method": "year",
+          "search-term": "2014",
+          "search-type": "searcher"
+        },
+        "_text": "2014"
+      },
+      "publishers": {
+        "_text": ["\n          ", "\n        "],
+        "publisher": {
+          "_attributes": {
+            "translation": "Uitgever",
+            "search-method": "publisher",
+            "search-term": "Em. Querido's Uitgeverij BV",
+            "search-type": "searcher",
+            "year": "2014",
+            "place": "Amsterdam"
+          },
+          "_text": "Em. Querido's Uitgeverij BV"
+        }
+      }
+    },
+    "languages": {
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "language": {
+        "_attributes": {
+          "translation": "Taal",
+          "search-method": "language",
+          "search-term": "dut",
+          "search-type": "searcher"
+        },
+        "_text": "dut"
+      },
+      "original-language": {
+        "_attributes": { "translation": "Oorspr. taal uitgave" },
+        "_text": "ger"
+      }
+    },
+    "subjects": {
+      "_text": ["\n        ", "\n      "],
+      "topical-subject": {
+        "_attributes": {
+          "translation": "Onderwerp",
+          "search-method": "subject",
+          "search-term": "Dementie",
+          "search-type": "fuzzy"
+        },
+        "_text": "Dementie"
+      }
+    },
+    "genres": {
+      "_text": ["\n        ", "\n      "],
+      "genre": {
+        "_attributes": {
+          "translation": "Genre",
+          "search-method": "genre",
+          "search-term": "Psychologisch verhaal",
+          "search-type": "searcher"
+        },
+        "_text": "Psychologisch verhaal"
+      }
+    },
+    "description": {
+      "_text": ["\n        ", "\n      "],
+      "physical-description": {
+        "_attributes": { "translation": "Kenmerken" },
+        "_text": "237 pagina's ; 22 cm"
+      }
+    },
+    "summaries": {
+      "_text": ["\n        ", "\n      "],
+      "summary": {
+        "_attributes": { "translation": "Samenvatting" },
+        "_text": "Een man op hoge leeftijd wordt gekweld door schuldgevoelens als zijn grote liefde vanwege dementie naar een verzorgingshuis moet."
+      }
+    },
+    "notes": {
+      "_text": ["\n        ", "\n      "],
+      "note": {
+        "_attributes": { "translation": "Aantekening" },
+        "_text": "Vertaling van: Das Versprechen. - München, Droemer Verlag, 2014"
+      }
+    },
+    "undup-info": {
+      "_attributes": {
+        "key": "|oba-catalogus|1107995",
+        "cnt": "2",
+        "sort": "year",
+        "frabl": "12ECA57E7CF360A0",
+        "frabl-global-count": "2",
+        "frabl-key1": "de belofte een waargebeurd verhaal over liefde en dementie",
+        "frabl-key2": "nadine ahr",
+        "translation": "Informatie over dubbele items"
+      },
+      "_text": ["\n        ", "\n        ", "\n      "],
+      "format": [
+        {
+          "_attributes": {
+            "text": "book",
+            "icon": "/assets/resources/img/mat/book.png?skin=oba&bld=20190314.232823",
+            "translation": "Formaat"
+          },
+          "_text": ["\n          ", "\n        "],
+          "item": {
+            "_attributes": {
+              "extid": "|oba-catalogus|1107995",
+              "frabl": "12ECA57E7CF360A0",
+              "language": "dut",
+              "year": "2014",
+              "publisher": "Em. Querido's Uitgeverij BV",
+              "globalholdingscount": ""
+            }
+          }
+        },
+        {
+          "_attributes": {
+            "text": "largetype",
+            "icon": "/assets/resources/img/mat/large type.png?skin=oba&bld=20190314.232823",
+            "translation": "Formaat"
+          },
+          "_text": ["\n          ", "\n        "],
+          "item": {
+            "_attributes": {
+              "extid": "|oba-catalogus|1111223",
+              "frabl": "12ECA57E7CF348A0",
+              "language": "dut",
+              "year": "2014",
+              "publisher": "Uitgeverij XL",
+              "globalholdingscount": ""
+            }
+          }
+        }
+      ]
+    }
+  }
+]
