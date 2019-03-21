@@ -1,0 +1,48 @@
+[
+  {
+    "track_id": 164289228,
+    "track_name": "7 rings",
+    "track_name_translation": [],
+    "track_rating": 100,
+    "commontrack_id": 91473047,
+    "instrumental": false,
+    "explicit": 1,
+    "has_lyrics": true,
+    "has_subtitles": true,
+    "has_richsync": 1,
+    "num_favourite": 2021,
+    "album_id": 31234760,
+    "album_name": "thank u, next",
+    "artist_id": 13958599,
+    "artist_name": "Ariana Grande",
+    "track_share_url": "https://www.musixmatch.com/lyrics/Ariana-Grande/7-rings?utm_source=application&utm_campaign=api&utm_medium=RapidAPI%3A1409618083372",
+    "track_edit_url": "https://www.musixmatch.com/lyrics/Ariana-Grande/7-rings/edit?utm_source=application&utm_campaign=api&utm_medium=RapidAPI%3A1409618083372",
+    "restricted": false,
+    "updated_time": "2019-02-11T11:40:22Z",
+    "primary_genres": {
+      "music_genre": [
+        {
+          "music_genre_id": 14,
+          "music_genre_parent_id": 34,
+          "music_genre_name": "Pop",
+          "music_genre_name_extended": "Pop",
+          "music_genre_vanity": "Pop"
+        },
+        {
+          "music_genre_id": 18,
+          "music_genre_parent_id": 34,
+          "music_genre_name": "Hip Hop/Rap",
+          "music_genre_name_extended": "Hip Hop/Rap",
+          "music_genre_vanity": "Hip-Hop-Rap"
+        },
+        {
+          "music_genre_id": 1136,
+          "music_genre_parent_id": 15,
+          "music_genre_name": "Contemporary R&B",
+          "music_genre_name_extended": "R&B/Soul / Contemporary R&B",
+          "music_genre_vanity": "R-B-Soul-Contemporary-R-B"
+        }
+      ]
+    }
+  }
+]
