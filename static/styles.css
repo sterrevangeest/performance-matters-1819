@@ -3,6 +3,8 @@ html {
 }
 
 body {
+  /* font-family: system, -apple-system, ".SFNSText-Regular", "San Francisco",
+    "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif; */
   font-family: Montserrat;
   background-color: #f7eee7;
   max-width: 55em;
@@ -61,13 +63,18 @@ article:hover {
 .information-block {
   display: flex;
   justify-content: space-between;
+  /* flex-wrap: wrap;
+  flex-direction: row ; */
+  flex-flow: row wrap;
 }
+
 .information-block img {
   width: 100%;
   border-radius: 3px;
 }
 .information-block article {
   width: 23.5%;
+  width: 13em;
 }
 
 .call-to-action {
@@ -134,19 +141,25 @@ article:hover {
 
 .books {
   display: flex;
-  width: 300%;
+  justify-content: space-between;
+  /* flex-wrap: wrap;
+  flex-direction: row ; */
+  flex-flow: row wrap;
+  /* display: flex;
+  //width: 300%;
   padding: 0;
-  max-width: 10%;
+  max-width: 10%; */
 }
 
 .books a {
-  margin-right: 1em;
+  margin-bottom: 2em;
 }
 
 .books p {
   background-color: #f7eee7;
-  padding: 0;
+  /* padding: 0; */
   font-weight: 700;
+  padding: 0.5em 0;
 }
 
 .books a {
@@ -163,4 +176,24 @@ article:hover {
   font-size: 0.9em;
   border-radius: 3px;
   padding: 0.5em 1em;
+}
+
+.image-fix {
+  padding-bottom: 68.83%;
+  height: 0;
+}
+
+.books .image-fix {
+  padding-bottom: 23vh;
+  height: 0;
+}
+
+.books img {
+  height: 10em;
+}
+
+img {
+  background: lightgrey;
+  /* height: 100%; */
+  border: 0;
 }
