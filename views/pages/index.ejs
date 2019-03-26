@@ -8,36 +8,96 @@
 <body class="container">
 
 <header> <% include ../partials/header %></header>
+<p class="first">
+  Muziek op Maat is bedoeld voor een specifieke doelgroep: mensen met
+  dementie of de ziekte van Alzheimer.
+</p>
 
-<p>Kies een genre</p>
+<a href="muziek-op-maat-aanvragen" class="call-to-action">Muziek op Maat aanvragen</a>
 
-<!-- <section class ="search">
-
-  <form class="" action="index.html" method="post">
-    <input type="text" name="" value="">
-    <button type="button" name="button">Zoeken...</button>
-  </form>
-
-</section> -->
-
-<section class= "genres">
-  <% filteredArray.forEach(function(item) { %>
-      <a href=<%= item %>><%= item %></a>
-
-  <% }); %>
+<section class="information-block">
+  <h2>Meer info</h2>
+  <article>
+    <div class="image-fix">
+      <img data-src="images/wat.png" alt="" width="100%" height="inherit" class="lazy"/>
+    </div>
+    <h3>Wat...</h3>
+    <p>houdt Muziek op Maat in?</p>
+  </article>
+  <article>
+      <div class="image-fix">
+    <img data-src="images/voorwie.png" alt="" width="100%" height="inherit" class="lazy"/>
+      </div>
+    <h3>Voor wie...</h3>
+    <p>is Muziek op Maat bedoeld?</p>
+  </article>
+  <article>
+      <div class="image-fix">
+    <img data-src="images/hoe.png" alt="" width="100%" height="inherit" class="lazy"/>
+      </div>
+    <h3>Hoe...</h3>
+    <p>werkt Muziek op Maat en hoe vraag ik het aan?</p>
+  </article>
+  <article>
+        <div class="image-fix">
+    <img data-src="images/waarom.png" alt="" width="100%" height="inherit" class="lazy"/>
+      </div>
+    <h3>Waarom...</h3>
+    <p>u Muziek op Maat kunt gebruiken</p>
+  </article>
 </section>
 
-<!-- <section class="books">
-    <% data.forEach(function(item) { %>
-      <article>
-        <img src=<%= item.cover_image %> alt=<%= item.title %>>
-        <h2><%= item.title %></h2>
-        <p><%= item.author %></p>
-        <a href=<%= item.isbn %>>bekijk</a>
-      </article>
-    <% }); %>
+<section>
+  <h2>Over ons brein en muziek</h2>
+  <p>
+    Een kort college van professor Erik Scherder over ons brein en muziek.
+  </p>
+  <iframe
+    width="100%"
+    height="600px"
+    src="https://www.youtube.com/embed/lWrooD_t9KU"
+    frameborder="0"
+    allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</section>
 
-</section> -->
+<section>
+  <h2>Meer informatie over dementie</h2>
+    <p>
+      Door het luisteren naar deze muziek wordt dát deel van de hersenen
+      aangesproken waar de hieraan verbonden herinneringen liggen
+      opgeslagen. Muziek roept bij iedereen emoties op, maar het effect van
+      de juiste muziek op iemand met dementie is vaak enorm. Mensen leven
+      op, voelen zich gelukkiger en meer ontspannen en kunnen zich vaak
+      ineens weer gebeurtenissen van lang geleden herinneren.
+    </p>
+  <h3>Handige links</h3>
+      <a href="#">AlzheimerMuziekGeluk</a> <a href="#">FDLotgenoten</a>
+      <a href="#">Jongdementerend.nl</a>
+      <a href="#">AlzheimerMuziekGeluk</a> <a href="#">Odensehuis</a>
+      <a href="#">Alzheimer Nederland</a> <a href="#">Markant</a
+      ><a href="#">Cliëntenbelang Amsterdam</a
+      ><a href="#">Dementie-Winkel.nl</a>
+</section>
+
+  <!-- <section>
+
+    <ul id="books"></ul>
+  </section> -->
+  <h2>Te leen bij de OBA over dementie</h2>
+<section class="books">
+
+  <% data.forEach(function(data) { %>
+    <a href="<%=data["detail-page"]._text %>">
+        <div class="image-fix">
+      <img data-src="<%=data.coverimages.coverimage[1]._text%>" class="lazy" height="100%" width="inherit"/>
+    </div>
+      <p><%=data.titles.title._text%></p>
+      <p class="format"><%=data.formats.format._text %></p>
+    </a>
+  <% }); %>
+</section>
 
 <footer><% include ../partials/footer %></footer>
 
