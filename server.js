@@ -2,15 +2,47 @@ console.log("test");
 
 var init = {
   settings: function() {
-    const express = require("express");
-    const app = express();
-    const port = 3000;
-    var compression = require("compression");
+    //EXPRESS
+    var express = require("express");
+    var app = express();
+    var port = 8000;
+    require("dotenv").config();
 
-    let ejs = require("ejs");
-    app.set("view engine", "ejs");
-    app.use(express.static("static"));
+    // CASHING
+    app.use((req, res, next) => {
+      res.append("Access-Control-Allow-Origin", ["*"]);
+      res.append("Access-Control-Allow-Methods", "GET,PUT,POST,DELETE");
+      res.append("Access-Control-Allow-Headers", "Content-Type");
+      res.append("Cache-Control", "max-age=" + 365 * 24 * 60 * 60);
+      next();
+    });
+
+    // COMPRESSION
+    var compression = require("compression");
     app.use(compression());
+    app.use(express.static("static"));
+
+    //MINIFY HTML
+    var minifyHTML = require("express-minify-html");
+    app.use(
+      minifyHTML({
+        override: true,
+        exception_url: false,
+        htmlMinifier: {
+          removeComments: true,
+          collapseWhitespace: true,
+          collapseBooleanAttributes: true,
+          removeAttributeQuotes: true,
+          removeEmptyAttributes: true,
+          minifyJS: true
+        }
+      })
+    );
+
+    //TEMPLATE
+    var ejs = require("ejs");
+    app.set("view engine", "ejs");
+
     routes.listen(app, port);
     routes.get(app, port);
   }
@@ -64,36 +96,37 @@ var api = {
     });
   },
   getMusic: function() {
-    var unirest = require("unirest");
-    return unirest
-      .get(
-        "https://musixmatchcom-musixmatch.p.rapidapi.com/wsr/1.1/track.search?page_size=20&page=1"
-      )
-      .header(
-        "X-RapidAPI-Key",
-        "19933dac39mshca3d822279f36b2p1a365ajsn3e41b754485e"
-      )
-      .then(function(result) {
-        console.log(result.body);
+    // ------ GET & WRITE API DATA TO FILE ------
+    // var unirest = require("unirest");
+    // return unirest
+    //   .get(
+    //     "https://musixmatchcom-musixmatch.p.rapidapi.com/wsr/1.1/track.search?page_size=20&page=1"
+    //   )
+    //   .header(
+    //     "X-RapidAPI-Key",
+    //     "process.env.DB_PASS"
+    //   )
+    //   .then(function(result) {
+    //     console.log(result.body);
 
-        // console.log(JSON.parse(result));
-        // // var result = JSON.parse(result.body);
-        // // var result = JSON.stringify(result);
-        // // var fs = require("fs");
-        // // fs.writeFile("public/javascript/data.json", result, function(err) {
-        // //   if (err) {
-        // //     return console.log(err);
-        // //   }
-        // //   console.log("The file was saved!");
-        // // });
-        // return result;
-        var fetch = require("node-fetch");
-        return fetch(
-          "https://raw.githubusercontent.com/sterrevangeest/musiXmatch-api/master/public/javascript/data.json"
-        ).then(function(result) {
-          return result.json();
-        });
-      });
+    // console.log(JSON.parse(result));
+    // // var result = JSON.parse(result.body);
+    // // var result = JSON.stringify(result);
+    // // var fs = require("fs");
+    // // fs.writeFile("public/javascript/data.json", result, function(err) {
+    // //   if (err) {
+    // //     return console.log(err);
+    // //   }
+    // //   console.log("The file was saved!");
+    // // });
+    // return result;
+    // -----------------------------------------
+    var fetch = require("node-fetch");
+    return fetch(
+      "https://raw.githubusercontent.com/sterrevangeest/musiXmatch-api/master/public/javascript/data.json"
+    ).then(function(result) {
+      return result.json();
+    });
   },
   getList: function() {
     var fetch = require("node-fetch");
