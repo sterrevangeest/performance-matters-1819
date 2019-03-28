@@ -185,15 +185,34 @@ article:hover {
 
 .books .image-fix {
   padding-bottom: 23vh;
+  background-color: grey;
   height: 0;
+  //width: 100%;
 }
 
-.books img {
+/* .books img {
   height: 10em;
-}
+} */
 
 img {
-  background: lightgrey;
+  background-color: lightgrey;
   /* height: 100%; */
+  /* width: 100%;
+  height: 100%; */
   border: 0;
+}
+
+.online {
+  display: none;
+  background: green;
+}
+
+.offline {
+  position: fixed;
+  max-width: 55em.;
+  margin-top: -5em;
+  padding: 1em;
+  color: white;
+  background: #ff3b30;
+  background: #404040;
 }

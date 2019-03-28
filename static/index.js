@@ -1,4 +1,5 @@
 console.log("test");
+console.log("hoi");
 
 document.addEventListener("DOMContentLoaded", function() {
   var lazyloadImages;
@@ -49,3 +50,47 @@ document.addEventListener("DOMContentLoaded", function() {
     window.addEventListener("orientationChange", lazyload);
   }
 });
+
+////SERVICE WORKER
+
+window.addEventListener("load", function() {
+  var status = document.getElementById("status");
+
+  function updateOnlineStatus(event) {
+    var condition = navigator.onLine ? "online" : "offline";
+    console.log(condition);
+    status.className = condition;
+    status.innerHTML =
+      "Je verbinding is " +
+      condition.toUpperCase() +
+      "het kan zijn dat bepaalde functionaliteiten niet werken...";
+
+    log.insertAdjacentHTML("beforeend", "Event: " + event.type);
+  }
+
+  window.addEventListener("online", updateOnlineStatus);
+  window.addEventListener("offline", updateOnlineStatus);
+});
+
+// window.addEventListener('online',  updateOnlineStatus);
+// window.addEventListener('offline', updateOnlineStatus);
+
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("/service-worker.js").then(
+      registration => {
+        // Registration was successful
+
+        console.log(
+          "ServiceWorker registration successful with scope: ",
+          registration.scope
+        );
+        return registration.update();
+      },
+      err => {
+        // registration failed :(
+        console.log("ServiceWorker registration failed: ", err);
+      }
+    );
+  });
+}

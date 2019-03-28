@@ -91,7 +91,7 @@
   <% data.forEach(function(data) { %>
     <a href="<%=data["detail-page"]._text %>">
         <div class="image-fix">
-      <img data-src="<%=data.coverimages.coverimage[1]._text%>" class="lazy" height="100%" width="inherit"/>
+      <img data-src="<%=data.coverimages.coverimage[1]._text%>"  height="100%" width="inherit" class="lazy"/>
     </div>
       <p><%=data.titles.title._text%></p>
       <p class="format"><%=data.formats.format._text %></p>

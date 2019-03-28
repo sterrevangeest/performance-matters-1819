@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "minify-css": "node tasks/minify-css.js",
-    "minify-js": "node tasks/minify-js.js"
+    "minify-js": "node tasks/minify-js.js",
+    "start": "node server"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
     "express": "^4.16.4",
     "express-minify-html": "^0.12.0",
     "fetch-absolute": "^1.0.0",
+    "helmet": "^3.16.0",
     "node-fetch": "^2.3.0",
     "node-gzip": "^1.1.2",
     "unirest": "^0.6.0"
