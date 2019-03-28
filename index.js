@@ -5,11 +5,9 @@ var init = {
     //EXPRESS
     var express = require("express");
     var app = express();
-    var port = 8000;
-    var helmet = require("helmet");
-    require("dotenv").config();
+    var port = 3000;
 
-    app.use(helmet());
+    require("dotenv").config();
 
     // CASHING
     app.use((req, res, next) => {
