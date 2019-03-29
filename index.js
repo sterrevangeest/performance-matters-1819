@@ -53,9 +53,7 @@ var init = {
 
 var routes = {
   listen: function(app, port) {
-    app.listen(port, () =>
-      console.log(`Example app listening on port ${port}!`)
-    );
+    app.listen(port, () => console.log(`Yeet`));
   },
   get: function(app, port) {
     app.get("/", function(req, res) {
