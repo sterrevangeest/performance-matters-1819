@@ -1,6 +1,8 @@
 console.log("test");
 console.log("hoi");
 
+// SCROLL
+// https://imagekit.io/blog/lazy-loading-images-complete-guide/
 document.addEventListener("DOMContentLoaded", function() {
   var lazyloadImages;
 
@@ -71,9 +73,6 @@ window.addEventListener("load", function() {
   window.addEventListener("online", updateOnlineStatus);
   window.addEventListener("offline", updateOnlineStatus);
 });
-
-// window.addEventListener('online',  updateOnlineStatus);
-// window.addEventListener('offline', updateOnlineStatus);
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {

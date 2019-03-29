@@ -17,16 +17,6 @@ self.addEventListener("activate", event => {
   console.log("activate service worker", event);
 });
 
-// self.addEventListener("fetch", event => {
-//   console.log("fetch event", event.request.url);
-//   if (
-//     event.request.method === "GET" &&
-//     event.request.headers.get("accept").indexOf("images/*") > -1
-//   ) {
-//     event.respondWith(fetch);
-//   }
-// });
-
 ///https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers
 
 self.addEventListener("fetch", function(event) {
