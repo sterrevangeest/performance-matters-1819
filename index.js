@@ -7,7 +7,7 @@ var init = {
     var app = express();
     var port = process.env.PORT || 3000;
 
-    app.listen(process.env.PORT || 3000);
+    app.listen(port);
 
     require("dotenv").config();
 
